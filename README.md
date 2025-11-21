@@ -18,9 +18,9 @@ A functional basic calculator using HTML, CSS, and JavaScript.
 
 🛠️ Tech Stack
 
-HTML5
+HTML
 
-CSS3
+CSS
 
 JavaScript
 
